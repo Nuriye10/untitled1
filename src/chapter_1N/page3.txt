@@ -7,3 +7,6 @@ they commit and push their computer
 part two for updates 
 
 adding more text
+
+
+information about git
