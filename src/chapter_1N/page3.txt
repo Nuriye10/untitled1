@@ -10,3 +10,8 @@ adding more text
 
 
 information about git
+
+adding some more text
+
+
+yes like that
